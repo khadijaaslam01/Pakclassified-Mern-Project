@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "cls",
   "version": "1.0.0",
   "description": "first mern project",
   "main": "index.js",
@@ -15,5 +15,6 @@
     "express": "^5.1.0",
     "mongoose": "^8.15.1",
     "nodemon": "^3.1.10"
-  }
+  },
+  "devDependencies": {}
 }
